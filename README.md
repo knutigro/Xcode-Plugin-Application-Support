@@ -1,5 +1,3 @@
-# ApplicationSupport-X-Code-Plugin
+# ApplicationSupport
 
-X-Code plugin that will add possibility to open Application Support Folder directly from X-code.
-
-This can be usefull if you develop for OSX and need fast access to the files you store in your project at runtime.
+Application Support is a plugin for X-Code that adds a menubutton for opening Application Support folder. The plugin is installable via thethe [Alcatraz package manager](http://alcatraz.io/).
